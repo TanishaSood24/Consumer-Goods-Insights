@@ -9,10 +9,15 @@ To bridge this gap, the Data Analytics Director plans to expand the analytics te
 The provided 'gdb023' database contains six key tables, offering comprehensive insights into customers, products, pricing, costs, deductions, and sales:
 
 -->dim_customer – Stores customer-related information.
+
 -->dim_product – Contains product-specific details.
+
 -->fact_gross_price – Tracks the gross price of each product.
+
 -->fact_manufacturing_cost – Records production costs.
+
 -->fact_pre_invoice_deductions – Captures deductions applied before invoicing.
+
 -->fact_sales_monthly – Maintains monthly sales data
 
 # Task:
@@ -40,6 +45,8 @@ This project demonstrated my ability to analyze consumer trends and extract acti
 
 #  Repository Contents:
 Ad-hoc-requests.pdf: A document listing 10 ad hoc business requests.
+
 SQL Queries: A folder with SQL scripts for data extraction.
+
 Presentation: A file that highlights insights and recommendations.
 
